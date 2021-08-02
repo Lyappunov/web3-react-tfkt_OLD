@@ -1,5 +1,5 @@
-import { ConnectorUpdate } from '@web3-react/types'
-import { AbstractConnector } from '@web3-react/abstract-connector'
+import { ConnectorUpdate } from '@web3-react-tfkt/types'
+import { AbstractConnector } from '@web3-react-tfkt/abstract-connector'
 import { IWalletConnectProviderOptions } from '@walletconnect/types'
 
 export const URI_AVAILABLE = 'URI_AVAILABLE'
