@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "web3-react-tfkt",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
