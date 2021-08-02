@@ -1,4 +1,4 @@
-# `web3-react` 🧰
+# `web3-react-tfkt` 🧰
 
 _A simple, maximally extensible, dependency minimized framework for building modern [Ethereum dApps](https://ethereum.org/beginners/)_
 
