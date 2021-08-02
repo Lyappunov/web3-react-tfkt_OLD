@@ -24,6 +24,7 @@
     "authereum",
     "magic"
   ],
+  "version": "1.0.0",
   "author": "Noah Zinsmeister <noahwz@gmail.com>",
   "repository": {
     "type": "git",
